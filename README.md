@@ -98,3 +98,9 @@ $ git remote add origin git@github.com:%ИМЯ_АККАУНТА%/first-project.g
 $ git push -u origin main 
 ```
 15. Проверить в GitHub в репозитории наличие измененных файлов и коммиты
+
+
+### Просмотр логов
+- git log - полные логи
+- git log --oneline - сокращенный просмотр логов
+Q - выход из просмотра логов 
